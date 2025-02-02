@@ -1,6 +1,6 @@
 # WireMock Testing Setup with Xunit and HttpClient
 
-This repository demonstrates how to mock external API responses using **WireMock** in combination with **XUnit** for unit testing. It leverages **WireMock.Net** for creating mock HTTP servers and **HttpClient** for making API requests within the tests.
+This repository demonstrates how to mock external API responses using **WireMock** in combination with **XUnit** for testing. It leverages **WireMock.Net** for creating mock HTTP servers and **HttpClient** for making API requests within the tests.
 
 ## Setup
 
